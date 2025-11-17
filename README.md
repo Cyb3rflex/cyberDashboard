@@ -1,6 +1,9 @@
 🛡️ Cybersecurity Dashboard
 
-A modern, interactive, and developer-friendly cybersecurity toolkit built with React, Tailwind CSS, and Framer Motion.
+<img width="1536" height="1024" alt="cyberdashlogo" src="https://github.com/user-attachments/assets/a4495947-1594-4391-9930-51ce622cee19" />
+
+A modern, interactive, and developer-friendly cybersecurity toolkit built with React, Tailwind CSS, and Framer Motion!
+.
 This dashboard provides quick access to essential security tools such as password strength analysis, IP lookup, hash generation, threat intelligence feeds, and simulated system monitoring.
 
 ## 🚀 Features
@@ -28,6 +31,11 @@ This dashboard provides quick access to essential security tools such as passwor
 - 🎨 **Smooth UI + Animations**
 
 	Built with Tailwind CSS (Dark/Light mode), Framer Motion (Animations), and Lucide React (icon set).
+
+- **Desktop View**
+  
+  <img width="1365" height="681" alt="cyberdashdesktopview" src="https://github.com/user-attachments/assets/3b34dd5f-52a4-47b3-a3fd-fcad3cf4aedc" />
+
 
 ## 📁 Project Structure
 
