@@ -84,7 +84,7 @@ cybersecurity-dashboard/
 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/cybersecurity-dashboard.git
+git clone https://github.com/Cyb3rflex/cybersecurity-dashboard.git
 cd cybersecurity-dashboard
 ```
 
